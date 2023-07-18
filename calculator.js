@@ -1,7 +1,7 @@
  let sound1=new Audio();
-sound1.src="sounds/sound1.mp3";
+sound1.src="sound1.mp3";
 let sound2=new Audio();
-sound2.src="sounds/sound2.wav";
+sound2.src="sound2.wav";
 input=document.getElementById('inputBox');
 let buttons=document.querySelectorAll('button');
 let string="";
